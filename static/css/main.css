@@ -1,0 +1,9 @@
+body, html {
+    margin: 0;
+}
+table {
+  border: 1px solid red;
+  border-collapse: collapse;
+  border-spacing: 15px;
+}
+
